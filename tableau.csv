@@ -1,0 +1,17 @@
+Élève,Nom bon,Index du fichier mot bon,Nom mauvais 1,Nom mauvais 2,Syllabe bonne,Index Syllabe bonne,Résultat du mot,Syllabes,Résultat de la syllabe
+1,fusil,1,facile,fossile,fu,18,,fo,17
+1,facile,2,ficelle,raffut,fa,20,,fu,18
+1,fini,3,facteur,fossette,fi,19,,fi,19
+1,fossile,4,fusil,famille,fo,17,,fa,20
+1,raffut,5,famille,fumer,fu,18,,,
+1,fille,6,facile,ficelle,fi,19,,,
+1,farine,7,film,fossette,fa,20,,,
+1,folie,8,fini,facteur,fo,17,,,
+2,film,9,folie,farine,fi,19,,,
+2,fossette,10,famille,future,fo,17,,,
+2,refus,11,facteur,folie,fu,18,,,
+2,fosse,12,raffut,film,fo,17,,,
+2,ficelle,13,fusil,facteur,fi,19,,,
+2,futur,14,fosse,fille,fu,18,,,
+2,famille,15,facile,refus,fa,20,,,
+2,facteur,16,raffut,folie,fa,20,,,
